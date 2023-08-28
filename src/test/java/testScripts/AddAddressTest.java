@@ -7,6 +7,9 @@ import org.testng.asserts.SoftAssert;
 
 import genericLibraries.BaseClass;
 
+//VERIFY USER IS ABLE TO ADD ADDRESS
+
+
 public class AddAddressTest extends BaseClass{
 	
 	@Test

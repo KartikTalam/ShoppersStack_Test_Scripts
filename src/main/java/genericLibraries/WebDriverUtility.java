@@ -77,7 +77,7 @@ public class WebDriverUtility {
 		action.moveToElement(element).perform();
 	}
 	
-	public void drightClick(WebElement element)
+	public void rightClick(WebElement element)
 	{
 		Actions action = new Actions(driver);
 		action.contextClick(element).perform();

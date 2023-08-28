@@ -93,4 +93,9 @@ public class HomePage {
 	{
 		return accountSettings;
 	}
+	
+	public WebElement getElectronics()
+	{
+		return electronics;
+	}
 }

@@ -7,6 +7,9 @@ import org.testng.annotations.Test;
 
 import genericLibraries.BaseClass;
 
+//VERIFY USER IS ABLE TO CREATE A NEW ACCOUNT
+
+
 public class ShopperRegisterTest extends BaseClass{
 	
 	@Test
